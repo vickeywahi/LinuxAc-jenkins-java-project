@@ -3,3 +3,4 @@ Test the java project with pipline project
 2nd Test the java project with pipline project
 Testing pipline project after removing 'Concurret Builds'
 Testing pipline project after changing settings w/o 'Concurret Builds'
+Testing pipline project after changing settings and with 'Concurret Builds restriction'
